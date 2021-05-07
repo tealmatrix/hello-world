@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/commerce/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/commerce/static/js/main.a596e93c.chunk.js",
-    "main.js.map": "/commerce/static/js/main.a596e93c.chunk.js.map",
-    "runtime-main.js": "/commerce/static/js/runtime-main.7aa0781d.js",
-    "runtime-main.js.map": "/commerce/static/js/runtime-main.7aa0781d.js.map",
-    "static/js/2.1e828e93.chunk.js": "/commerce/static/js/2.1e828e93.chunk.js",
-    "static/js/2.1e828e93.chunk.js.map": "/commerce/static/js/2.1e828e93.chunk.js.map",
-    "static/js/3.3b409220.chunk.js": "/commerce/static/js/3.3b409220.chunk.js",
-    "static/js/3.3b409220.chunk.js.map": "/commerce/static/js/3.3b409220.chunk.js.map",
-    "index.html": "/commerce/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/commerce/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.1e828e93.chunk.js.LICENSE.txt": "/commerce/static/js/2.1e828e93.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/commerce/static/media/logo.6ce24c58.svg"
+    "main.css": "/tealmatrix/clothes.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tealmatrix/clothes.git/static/js/main.b94151ba.chunk.js",
+    "main.js.map": "/tealmatrix/clothes.git/static/js/main.b94151ba.chunk.js.map",
+    "runtime-main.js": "/tealmatrix/clothes.git/static/js/runtime-main.a6fcb96f.js",
+    "runtime-main.js.map": "/tealmatrix/clothes.git/static/js/runtime-main.a6fcb96f.js.map",
+    "static/js/2.70a0ef2b.chunk.js": "/tealmatrix/clothes.git/static/js/2.70a0ef2b.chunk.js",
+    "static/js/2.70a0ef2b.chunk.js.map": "/tealmatrix/clothes.git/static/js/2.70a0ef2b.chunk.js.map",
+    "static/js/3.e0e7da51.chunk.js": "/tealmatrix/clothes.git/static/js/3.e0e7da51.chunk.js",
+    "static/js/3.e0e7da51.chunk.js.map": "/tealmatrix/clothes.git/static/js/3.e0e7da51.chunk.js.map",
+    "index.html": "/tealmatrix/clothes.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tealmatrix/clothes.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.70a0ef2b.chunk.js.LICENSE.txt": "/tealmatrix/clothes.git/static/js/2.70a0ef2b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tealmatrix/clothes.git/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7aa0781d.js",
-    "static/js/2.1e828e93.chunk.js",
+    "static/js/runtime-main.a6fcb96f.js",
+    "static/js/2.70a0ef2b.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a596e93c.chunk.js"
+    "static/js/main.b94151ba.chunk.js"
   ]
 }
